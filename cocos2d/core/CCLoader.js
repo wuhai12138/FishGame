@@ -510,13 +510,17 @@ cc.LoaderScene = cc.Scene.extend(/** @lends cc.LoaderScene# */{
  * cc.LoaderScene.preload([g_mainmenu,g_level], this.startGame, this);
  */
 cc.LoaderScene.preload = function (resources, selector, target) {
+    //如果_cc.loaderScene不存在的话，就创建一个cc.LoaderScene，并调用其init函数
+    //所以程序第一次启动，一定会创建这样一个加载Loading场景。
     if (!this._instance) {
         this._instance = new cc.LoaderScene();
         this._instance.init();
     }
 
+    //加载resources里面的资源文件，也就是在resource.js里面定义的加载资源
     this._instance.initWithResources(resources, selector, target);
 
+    //显示加载界面给玩家
     var director = cc.Director.getInstance();
     if (director.getRunningScene()) {
         director.replaceScene(this._instance);
