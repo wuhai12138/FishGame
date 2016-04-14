@@ -2,154 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d4ba78-61f2-41fe-b1c5-a051bd7ce52f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/src/MyLoader.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/cocos2d-html5.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/cocos2d-jsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/HD/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/HD/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/HD/HelloWorld.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/Normal/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/Normal/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/Normal/HelloWorld.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/res/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/src/myApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WhaleGame/src/resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBAnimationManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBKeyframe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBReaderUtil.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBRelativePositioning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBSequence.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBValue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCControlLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCNodeLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCNodeLoaderLibrary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCSpriteLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCEditBox/CCEditBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCEditBox/CCdomNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionFrame.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionObject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/CCArmature.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/CCBone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCArmatureAnimation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCProcessBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCTween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/datas/CCDatas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCBatchNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDecorativeDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDisplayFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDisplayManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCSkin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/physics/CCColliderDetector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCArmatureDataManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCArmatureDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCDataReaderHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCSpriteFrameCacheHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCTransformHelp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCTweenFunction.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCUtilMath.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/CocoStudio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComAttribute.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComAudio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComRender.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComponentContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/BaseClasses/UIWidget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayoutDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayoutParameter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/CocosGUI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/UIHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/UILayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/Compatible/CompatibleClasses.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIListView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIPageView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UIButton.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UICheckBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UIImageView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabelAtlas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabelBMFont.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILoadingBar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UIRichText.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UISlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UISwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UITextField.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Reader/GUIReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Reader/SceneReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/ObjectFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerMng.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerObj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlButton.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlColourPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlHuePicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlPotentiometer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlStepper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCInvocation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCMenuPassive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCScale9Sprite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCSorting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCTableView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/AnalyticsFlurry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialFacebook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialQQWeibo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialQzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialTwitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialWeibo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/Config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginProtocol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/ProtocolAds.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/ProtocolAnalytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/ProtocolSocial.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/facebook.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/qqweibo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/qzone.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/snweibo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/twitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/MySocialManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/myApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/external/box2d/box2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/external/chipmunk/chipmunk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Cocos2d-html5-v2.2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/licenses/LICENSE_cocos2d-html5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/licenses/LICENSE_cocos2d-x.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/licenses/LICENSE_zlib.js.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/compiler/compiler.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/jsdoc_toolkit/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/readme for tools.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game/res/HD/BeginningBackTest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game/src/GamingScene.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/core/CCLoader.js" afterPath="$PROJECT_DIR$/cocos2d/core/CCLoader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game/cocos2d.js" afterPath="$PROJECT_DIR$/Game/cocos2d.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game/src/myApp.js" afterPath="$PROJECT_DIR$/Game/src/myApp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game/src/resource.js" afterPath="$PROJECT_DIR$/Game/src/resource.js" />
     </list>
     <ignored path="FishGame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,9 +27,63 @@
     <favorites_list name="FishGame" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="706">
+              <caret line="75" column="70" selection-start-line="75" selection-start-column="70" selection-end-line="75" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/src/resource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameStartButtonSelectedTest.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/res/HD/GameStartButtonSelectedTest.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameStartButtonNormalTest.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/res/HD/GameStartButtonNormalTest.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myApp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/src/myApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="cocos2d.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/cocos2d.js">
+        <entry file="file://$PROJECT_DIR$/Game/cocos2d.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
@@ -180,57 +92,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myApp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/src/myApp.js">
+      <file leaf-file-name="GamingScene.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Game/src/GamingScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyLoader.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/src/MyLoader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="172" column="25" selection-start-line="172" selection-start-column="25" selection-end-line="172" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cocos2d-jsb.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/cocos2d-jsb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="206">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#37#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -241,6 +122,11 @@
         <option value="$PROJECT_DIR$/template/src/MyLoader.js" />
         <option value="$PROJECT_DIR$/template/cocos2d.js" />
         <option value="$PROJECT_DIR$/template/main.js" />
+        <option value="$PROJECT_DIR$/Game/src/resource.js" />
+        <option value="$PROJECT_DIR$/Game/cocos2d.js" />
+        <option value="$PROJECT_DIR$/Game/main.js" />
+        <option value="$PROJECT_DIR$/Game/src/myApp.js" />
+        <option value="$PROJECT_DIR$/Game/src/GamingScene.js" />
       </list>
     </option>
   </component>
@@ -298,7 +184,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
+              <option name="myItemId" value="Game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,11 +198,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
+              <option name="myItemId" value="Game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Normal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,14 +285,64 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files (x86)/JetBrains/cocos2d-html5-v2.2.3/cocos2d-html5-v2.2.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\FishGame\Game\res\HD" />
       <recent name="D:\Program Files (x86)\JetBrains\Apache HTTP Server\x64\htdocs\FishGame\template\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -357,19 +355,21 @@
       <option name="presentableId" value="Default" />
       <updated>1460533614877</updated>
       <workItem from="1460533616271" duration="598000" />
+      <workItem from="1460597471964" duration="15986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="598000" />
+    <option name="totallyTimeSpent" value="16584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2836767" sideWeight="0.67849225" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22134179" sideWeight="0.67849225" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32089552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32705098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -383,7 +383,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32150775" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -395,15 +394,65 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/cocos2d-jsb.js">
+    <entry file="file://$PROJECT_DIR$/template/cocos2d-jsb.js" />
+    <entry file="file://$PROJECT_DIR$/template/cocos2d.js" />
+    <entry file="file://$PROJECT_DIR$/template/src/myApp.js" />
+    <entry file="file://$PROJECT_DIR$/template/index.html" />
+    <entry file="file://$PROJECT_DIR$/template/main.js" />
+    <entry file="file://$PROJECT_DIR$/template/src/MyLoader.js" />
+    <entry file="file://$PROJECT_DIR$/cocos2d/core/platform/CCCommon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/cocos2d.js">
+    <entry file="file://$PROJECT_DIR$/Game/res/HD/BeginningBackTest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/res/HD/GameStartButtonSelectedTest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/res/HD/GameStartButtonTest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/res/HD/GameStartButtonNormalTest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="75" column="70" selection-start-line="75" selection-start-column="70" selection-end-line="75" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/cocos2d.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
@@ -411,35 +460,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/src/myApp.js">
+    <entry file="file://$PROJECT_DIR$/Game/src/myApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="431">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/index.html">
+    <entry file="file://$PROJECT_DIR$/Game/src/GamingScene.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/src/MyLoader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="172" column="25" selection-start-line="172" selection-start-column="25" selection-end-line="172" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="206">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
