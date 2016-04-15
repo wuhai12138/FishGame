@@ -63,9 +63,8 @@ var MyLayer = cc.Layer.extend({
             s_ButtonStartNormal,
             s_ButtonStartSelected,
             function () {
-                cc.log("Let's Start !!");
                 var gamingScene = GamingScene.create();// 创建结束场景
-                cc.Director.getInstance().replaceScene(cc.TransitionProgressHorizontal.create(1.2,gamingScene));  // 场景转换代码
+                cc.Director.getInstance().replaceScene(cc.TransitionFade.create(1.2,gamingScene));  // 场景转换代码
             },this
         )
         //startItem.setAnchorPoint(0,0);

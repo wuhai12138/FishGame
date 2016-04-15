@@ -2,12 +2,39 @@
  * Created by L on 2016/4/14.
  */
 var GamingLayer = cc.LayerColor.extend({
+    _back:null,
+    _hero:null,
+    _winSize:null,
+    _moveTo:null,
+    _backHeight:null,
+    _isNormal:true,
 
     init:function(){
         this._super();
-        // this.setColor(cc.c4(0,0,0,0));
+        this.setColor(cc.c4(0,0,0,0));
         //
-        // var winSize = cc.Director.getInstance().getWinSize();
+        this._winSize = cc.Director.getInstance().getWinSize();
+        this._back = new cc.Sprite.create(s_GamingBack);
+        this._back.setAnchorPoint(0.5,0);
+        this._back.setPosition(cc.p(this._winSize.width / 2,0));
+        this.addChild(this._back,1);
+
+        //this.schedule(this.updateGame,5.0);
+        this._moveTo = cc.MoveTo.create(26.0, cc.p(this._winSize.width / 2, -712));
+        this._back.runAction(this._moveTo);
+        this._hero = new  cc.Sprite.create(s_Hero);
+        this._hero.setAnchorPoint(0.5,0);
+        this._hero.setPosition(this._winSize.width / 2,0);
+        this.addChild(this._hero,2);
+
+        // var gamingScene = MyScene.create();// 创建结束场景
+        // cc.Director.getInstance().replaceScene(cc.TransitionFade.create(1.2,gamingScene));  // 场景转换代码
+
+        
+        
+
+        
+
         //
         // // 创建一个标签用于显示“GameOver”字符串
         // // 第一个参数是内容，第二个是字体，第三个是字体大小
@@ -16,18 +43,16 @@ var GamingLayer = cc.LayerColor.extend({
         // // 设置位置
         // _label.setPosition(cc.p(winSize.width/2,winSize.height/2));
         //
-        // this.addChild(_label,0);
-        var layer1 = cc.LayerColor.create(cc.c4(255, 255, 0, 255), 320, 480);
-        var layer2 = cc.LayerColor.create(cc.c4(255, 0, 0, 255), 100, 100);
-        var layer2_1 = cc.LayerColor.create(cc.c4(0, 255, 0, 255), 50, 50);
-
-        this.addChild(layer1);
-        layer1.addChild(layer2);
-        layer2.addChild(layer2_1);
-
-
+        //this.addChild(_label);
         return true;
-    }
+    },
+    // updateGame:function () {
+    //     this._moveTo = cc.MoveTo.create(6.0,cc.p(this._winSize.width / 2, - 201));
+    //     this._back.runAction(this._moveTo);
+    //     if(this._back.height<=-200){
+    //         this._back.setPositionY(0);
+    //     }
+    // }
 })
 //这个方法创建了GamingLayer层，并调用这个层的init方法进行初始化
 GamingLayer.create = function(){
@@ -40,13 +65,11 @@ GamingLayer.create = function(){
 
 var GamingScene = cc.Scene.extend({
     _layer:null,
-
-    init:function(){
-        // 这个场景加入了一个GameOverLayer层
-        this._layer = GamingLayer.create();
-        this.addChild(this._layer,1);
-
-        return true;
+    onEnter:function () {
+        this._super();
+        var layer = new GamingLayer();
+        this.addChild(layer);
+        layer.init();
     }
 })
 //这个方法创建了GameOverScene场景，并调用这个场景的init方法进行初始化

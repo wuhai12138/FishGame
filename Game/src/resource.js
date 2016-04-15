@@ -4,6 +4,8 @@ var s_CloseSelected = "CloseSelected.png";
 var s_BeginningBack = "BeginningBackTest.jpg";
 var s_ButtonStartNormal = "GameStartButtonNormalTest.jpg";
 var s_ButtonStartSelected = "GameStartButtonSelectedTest.jpg";
+var s_GamingBack = "GamingBackground.png";
+var s_Hero = "Hero.png";
 
 var g_resources = [
     //image
@@ -12,7 +14,9 @@ var g_resources = [
     s_CloseSelected,
     s_BeginningBack,
     s_ButtonStartNormal,
-    s_ButtonStartSelected
+    s_ButtonStartSelected,
+    s_GamingBack,
+    s_Hero
 
     //plist
 
